@@ -1,0 +1,10 @@
+[package]
+name = "cruz"
+version = "0.1.0"
+edition = "2021"
+authors = ["Patrick Obumselu <patrickobumselu@gmail.com>"]
+
+
+
+[dependencies]
+bracket-lib = "~0.8.1"
